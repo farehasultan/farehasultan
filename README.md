@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Fareha Sultan. 
+- 👋 Hi, I’m Fareha Sultan
+- 📍 Ottawa, Ontario
 - 🌱 I’m currently learning COBOL
-- 💻 Check out my profile: https://farehasultan.github.io/ (still needs some work)
+- 💻 Check out my profile: farehasultan.github.io (still needs some work)
 
 <!---
 farehasultan/farehasultan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
