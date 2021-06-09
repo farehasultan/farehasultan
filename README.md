@@ -1,5 +1,5 @@
 - 👋 Hello world, I’m Fareha!
-- 📍 Ottawa, Ontario
+- 📍 Canada
 - 🌱 I’m currently learning COBOL
 - 💻 Check out my profile: https://farehasultan.github.io/ (still needs some work)
 
