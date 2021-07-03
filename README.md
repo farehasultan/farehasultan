@@ -1,7 +1,6 @@
 - 👋 Hello world, I’m Fareha!
 - 📍 Canada
-- 🌱 I’m currently learning COBOL
-- 💻 Check out my profile: https://farehasultan.github.io/ (still needs some work)
+- 💻 Check out my profile: https://farehasultan.github.io/ 
 
 ![](https://komarev.com/ghpvc/?username=farehasultan&label=HEYO+you%27re+BEAUTIFUL+visitor+number&color=ff69b4)
 
