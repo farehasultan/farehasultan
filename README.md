@@ -1,6 +1,6 @@
 - 👋 Hello world, I’m Fareha!
 - 📍 Canada
-- 💻 Check out my profile: https://farehasultan.github.io/ (under construction)
+
 
 ![](https://komarev.com/ghpvc/?username=farehasultan&label=HEYO+you%27re+BEAUTIFUL+visitor+number&color=ff69b4)
 
