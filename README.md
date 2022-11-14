@@ -1,4 +1,5 @@
 - 👋 Hello world, I’m Fareha!
+- I am currently learning about Real-Time Operating System (RTOS) using QNX to build a project ! 
 - 📍 Canada
 
 
